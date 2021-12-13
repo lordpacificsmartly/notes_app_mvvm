@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="subscriber_email_hint">Subscriber\'s email</string>
+    <string name="subscriber_name_hint">Subscriber\'s name</string>
+</resources>
